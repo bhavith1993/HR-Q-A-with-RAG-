@@ -1,0 +1,11 @@
+flask-sqlalchemy
+pypdf
+faiss-gpu
+boto3
+aws-cli
+langchain-classic
+streamlit
+langchain_aws
+langchain
+langchain-core 
+langchain-community
